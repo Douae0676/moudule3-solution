@@ -1,0 +1,20 @@
+
+body {
+    padding-top: 60px; 
+}
+
+.container-fluid {
+    background-color: #f8f9fa;
+}
+
+.navbar-collapse {
+    background-color: #007bff;
+}
+
+.navbar-collapse a {
+    color: white !important;
+}
+
+.text-center {
+    text-align: center;
+}
